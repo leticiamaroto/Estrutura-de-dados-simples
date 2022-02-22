@@ -1,4 +1,4 @@
-let frutas = ["Maça", "Banana", "Mamão", "Uva", "Abacaxi"]
+let frutas = ["Maçã", "Banana", "Mamão", "Uva", "Abacaxi"]
 console.log(frutas)
 
 
